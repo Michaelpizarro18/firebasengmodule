@@ -1,0 +1,7 @@
+{
+  "name": "firebasengmodule",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
